@@ -444,7 +444,7 @@ Dataset mencakup 12 kecamatan Kota Bekasi.
 
 ## Visualization
 
-![DBSCAN](YOUR_SUPABASE_URL/clustering/dbscan_clusters.png)
+![DBSCAN](https://hdaphuncqwjfxysgmcew.supabase.co/storage/v1/object/public/machine-learning/Screenshot%202026-06-18%20at%2012.22.07.png)
 
 ### Characteristics
 
@@ -454,17 +454,17 @@ Dataset mencakup 12 kecamatan Kota Bekasi.
 
 ---
 
-# 📉 Prophet Forecasting
+# Prophet Forecasting
 
 ## Forecast Result
 
-![Prophet Forecast](YOUR_SUPABASE_URL/forecasting/prophet_forecast.png)
+![Prophet Forecast](https://hdaphuncqwjfxysgmcew.supabase.co/storage/v1/object/public/machine-learning/Screenshot%202026-06-18%20at%2012.23.25.png)
 
 ---
 
 ## Forecast Components
 
-![Prophet Components](YOUR_SUPABASE_URL/forecasting/prophet_components.png)
+![Prophet Components](https://hdaphuncqwjfxysgmcew.supabase.co/storage/v1/object/public/machine-learning/compnent-prophet.png)
 
 ---
 
@@ -478,7 +478,7 @@ Dataset mencakup 12 kecamatan Kota Bekasi.
 
 ---
 
-# 🧠 LSTM Forecasting
+# LSTM Forecasting
 
 ## Model Architecture
 
@@ -500,13 +500,13 @@ Dense Output Layer
 
 ## Training Loss
 
-![LSTM Loss](YOUR_SUPABASE_URL/lstm/loss_curve.png)
+![LSTM Loss](https://hdaphuncqwjfxysgmcew.supabase.co/storage/v1/object/public/machine-learning/Screenshot%202026-06-18%20at%2012.25.39.png)
 
 ---
 
 ## Prediction Result
 
-![LSTM Prediction](YOUR_SUPABASE_URL/lstm/prediction_result.png)
+![LSTM Prediction](https://hdaphuncqwjfxysgmcew.supabase.co/storage/v1/object/public/machine-learning/lstm.png)
 
 ---
 
@@ -519,7 +519,7 @@ Dense Output Layer
 
 ---
 
-# 📊 Model Comparison
+# Model Comparison
 
 | Model   | Task               | Main Metric     | Result    |
 | ------- | ------------------ | --------------- | --------- |
@@ -531,7 +531,7 @@ Dense Output Layer
 
 ---
 
-# 🏆 Key Findings
+# Key Findings
 
 ✅ YOLOv8 berhasil mendeteksi empat kategori sampah.
 
@@ -553,7 +553,7 @@ Dense Output Layer
 
 ---
 
-# 🚀 Future Work
+# Future Work
 
 * Real-Time IoT Integration
 * Smart Bin Monitoring
@@ -564,7 +564,7 @@ Dense Output Layer
 
 ---
 
-# 👨‍💻 Authors
+# Authors
 
 ### Kelompok 9
 
@@ -576,7 +576,7 @@ Dense Output Layer
 
 ---
 
-## 📄 License
+## License
 
 This project was developed for academic and educational purposes as part of the Machine Learning course project.
 
